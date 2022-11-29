@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44.645" height="41.854" viewBox="0 0 44.645 41.854">
+    <defs>
+        <style>
+            .cls-1{fill:#97aecf}
+        </style>
+    </defs>
+    <g id="database" transform="translate(0 -16)">
+        <path id="Path_699" d="M39.326 50.007v-5.232H28.862v-2.616H23.63v-2.616h15.7V16H5.319v23.543h15.7v2.616h-5.236v2.616H5.319v5.232H0v7.848h13.167v-7.848H7.935v-2.616h7.848v2.616h13.08v-2.616h7.847v2.616h-5.232v7.848h13.167v-7.848zM7.935 18.616H36.71v7.848H7.935zm0 10.464H36.71v7.848H7.935zm2.616 26.159H2.616v-2.616h7.935zm15.7-7.848H18.4v-2.616h7.848zm15.783 7.848h-7.94v-2.616h7.935z" class="cls-1"/>
+        <path id="Path_700" d="M121 196h2.912v2.912H121z" class="cls-1" transform="translate(-110.524 -164.423)"/>
+        <path id="Path_701" d="M181 196h2.912v2.912H181z" class="cls-1" transform="translate(-165.329 -164.423)"/>
+        <path id="Path_702" d="M241 196h2.912v2.912H241z" class="cls-1" transform="translate(-220.134 -164.423)"/>
+        <path id="Path_703" d="M121 76h2.912v2.912H121z" class="cls-1" transform="translate(-110.524 -54.176)"/>
+        <path id="Path_704" d="M181 76h2.912v2.912H181z" class="cls-1" transform="translate(-165.329 -54.176)"/>
+        <path id="Path_705" d="M241 76h2.912v2.912H241z" class="cls-1" transform="translate(-220.134 -54.176)"/>
+    </g>
+</svg>

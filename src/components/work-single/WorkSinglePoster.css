@@ -1,0 +1,24 @@
+section.posterGallery {
+    float: left;
+    width: 100%;
+    padding: 80px 0;
+}
+.mb-20{margin-bottom: 20px;}
+.posterGalleryInner{float: left; width: 100%;}
+.posterGalleryItemWrapper{float: left; width: 100%; margin-bottom: 150px; align-items: flex-start;}
+.ItemBig .posterGalleryItem{width: 100%;}
+.posterGalleryItem {float: left; width: 48%;}
+.posterGalleryItem figure{ padding: 4%; background-color: #e0e0e0;}
+.posterGalleryItemWrapper p{max-width: 80%; font-size: 18px; line-height: 28px;}
+
+
+
+
+
+
+
+
+
+
+
+
